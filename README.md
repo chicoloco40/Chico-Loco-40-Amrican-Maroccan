@@ -1,5 +1,4 @@
 # Chico-Loco-40-Amrican-Maroccan
-👁
 echo "# Chico-Loco-40-Amrican-Maroccan" >> README.md
 git init
 git add README.md
